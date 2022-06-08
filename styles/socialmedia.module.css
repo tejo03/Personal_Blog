@@ -1,0 +1,21 @@
+.container{
+    height:70vh;
+    width: 100%;
+    position: relative;
+  
+    
+}
+.parent{
+    width: 1500px;
+    
+}
+.child{
+   display: inline-block;
+   padding-top: 10px;
+   padding-left: 15px;
+   padding-right: 65px;
+    
+}
+.title{
+    padding-left: 100vh;
+}

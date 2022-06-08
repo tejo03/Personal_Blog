@@ -1,0 +1,23 @@
+.container{
+    height: 250px;
+    border-top: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    background-color: rgb(35, 33, 33);
+    padding: 50px;
+}
+.info{
+    padding: 50px;
+    color: white;
+    
+}
+.image{
+    padding-left: 80px;
+}
+.area{
+    color: white;
+}
+.title{
+    font-style:oblique
+}
