@@ -19,7 +19,7 @@ const Intro = () => {
                 <button className={styles.button}>discover</button>
             </div>
             <div className={styles.area}>
-            <Image src="/images/hello.jpg" width="200%" height="100%" layout="fill" ></Image>
+            <Image src="/images/hello.jpg" alt="" width="200%" height="100%" layout="fill" ></Image>
             </div>
         </div>
     )

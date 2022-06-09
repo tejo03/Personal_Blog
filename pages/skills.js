@@ -26,7 +26,7 @@ export default function About() {
         <div className={styles.area}>
         <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/c.png" height="200px" width="200px"></Image>
+                <Image src="/images/c.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 C Programming
                 <br/>
@@ -37,7 +37,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/c++.png" height="200px" width="200px"></Image>
+                <Image src="/images/c++.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 C++ Programming
                 <br/>
@@ -47,7 +47,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/java.jpg" height="200px" width="175px"></Image>
+                <Image src="/images/java.jpg" alt="" height="200px" width="175px"></Image>
                 <br/>
                 Java Programming
                 <br/>
@@ -57,7 +57,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/python.jpg" height="200px" width="200px"></Image>
+                <Image src="/images/python.jpg"alt=""  height="200px" width="200px"></Image>
                 <br/>
                 Python Programming
                 <br/>
@@ -67,7 +67,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/html.png" height="200px" width="200px"></Image>
+                <Image src="/images/html.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 HTML
                 <br/>
@@ -80,7 +80,7 @@ export default function About() {
         <div className={styles.area}>
         <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/css.jpg" height="200px" width="150px"></Image>
+                <Image src="/images/css.jpg" alt="" height="200px" width="150px"></Image>
                 <br/>
                 CSS
                 <br/>
@@ -91,7 +91,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
         <div className={styles.block}>
-                <Image src="/images/javascript.png" height="300px" width="400px"></Image>
+                <Image src="/images/javascript.png" alt="" height="300px" width="400px"></Image>
                 <br/>
                 JavaScript
                 <br/>
@@ -101,7 +101,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/bootstrap.png" height="200px" width="200px"></Image>
+                <Image src="/images/bootstrap.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 Bootstrap
                 <br/>
@@ -111,7 +111,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/react.png" height="200px" width="200px"></Image>
+                <Image src="/images/react.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 React
                 <br/>
@@ -121,7 +121,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/nextjs.png" height="200px" width="200px"></Image>
+                <Image src="/images/nextjs.png" alt="" height="200px" width="200px"></Image>
                 <br/>
                 NextJs
                 <br/>
@@ -135,7 +135,7 @@ export default function About() {
         <div className={styles.area}>
         <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/linux.jpg" height="200px" width="200px"></Image>
+                <Image src="/images/linux.jpg" alt="" height="200px" width="200px"></Image>
                 <br/>
                 Linux
                 <br/>
@@ -145,7 +145,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/nodejs.png" height="200px" width="250px"></Image>
+                <Image src="/images/nodejs.png" alt="" height="200px" width="250px"></Image>
                 <br/>
                 Nodejs
                 <br/>
@@ -155,7 +155,7 @@ export default function About() {
             </div>
             <div className={styles.space}>
             <div className={styles.block}>
-                <Image src="/images/mysql.png" height="200px" width="250px"></Image>
+                <Image src="/images/mysql.png" alt="" height="200px" width="250px"></Image>
                 <br/>
                 MySQL
                 <br/>
